@@ -7,6 +7,7 @@ Soy **Licenciado en Informática Educativa** con **10 años de experiencia** en 
 * 🔭 **Perfil Profesional:** Docente apasionado por la innovación educativa.
 * 🎮 **Intereses:** Tecnología, videojuegos y el aprendizaje constante de nuevas herramientas informáticas.
 * 👥 **Personalidad:** Me considero una persona amigable, interesado en conocer nuevos lugares y conectar con personas del sector.
+* Soy nuevo en Github pero espero aprender mucho de esta herramienta
 
 ---
 
